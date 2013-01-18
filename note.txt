@@ -1,0 +1,73 @@
+INTODUCTION, START IT!
+
+Fig. 5. perhaps quantify numbers of galaxies ratioed for different morphs between mid/high mid/low , high/low.  Are they the same?  this may be interesting. figure it out!
+
+Few intermediates, and they lie in and intermediate spot on the plate between bulge and disc. Mention how bulge show tight relation of R_e to sigma. while others to not. Could be model fittting issue, de Vaulclears fit for disc!? What does that mean. but possibility that it is real, what would that mean.
+Line of constant dissipation in a merger due to gas shock heating. Ask phil about lines of constant dissipation. Bulges form this way? Is this causing the trend?
+
+Section 4: We know that galaxies are differnt in parts of this space. So we are fixing things that vary. Looking at one different variable at a time. Say how I fit the plane. Name python script, and what mathematical procedure it uses.
+
+Figure 5. Really spell it out in more detail. It is a confusing plot for those who are not use to it.
+
+Into to secton 5: more details? Table for how the slices are make.
+
+LINERs Low Ionization Nuclear Emission-line Region, they might not be BH accreation, might not even be a type of AGN.
+
+
+b/a from de Vaucouleurs fit
+
+
+
+
+
+General Comments:
+
+Many sentences are in the passive voice.  While I know students are taught to "keep themselves out of it" when writing formal essays, passive constructions are often just plain harder to read.  It is completely acceptable (and I think preferable!) in science writing to use active constructions ("We remove galaxies with velocity dispersions > 70 km/s…", etc.)
+
+2. Data
+
+z-range cuts:
+	- low end: need [OII] at 3727 Angstroms (SDSS wavelength coverage begins at 3800)
+	- high end: small slice in cosmic time so we don't have to worry about evolution
+
+Halpha and [OII] cuts:
+	- What does the presence of emission lines tell you about a galaxy?
+	- Halpha and [OII] tend to be the strongest emission lines in galaxies with ionized gas
+	- Renbin Yan's 2006 paper shows that star-forming galaxies and AGN have strong Halpha and moderate [OII]3727 emission, while LINERs have strong [OII] and weak Halpha.  The Halpha cut removes star-forming and AGN galaxies, while the [OII] cut removes LINERs.
+
+"spectra" is plural.  The singular form is "spectrum".  
+
+Why do we want to exclude LINERs?
+
+In Figure 1, do the contours show *all* galaxies, or only the ones that have been *removed* from our sample?
+
+In Figure 1, why do we have a few red points that scatter down into the blue cloud?  What is going on with those?  ---> Take a look at the SDSS thumbnail images for a few of them.
+
+2.1 Morphological Data
+
+Why are we looking at galaxy morphologies?  
+
+All of the parameters we use (C, b/a, B/T, and s2) can be considered morphological parameters
+
+4. Fundamental Plane
+
+When mentioning Figure 4, emphasize that all three morphological types fall on about the same FP. 
+
+At the end of Section 4, you should discuss Figure 5 and say a bit about how the different morphological types populate the FP
+
+
+Discussing Figure 5
+
+1. Remind the reader: massive things are in the upper right corner (Mdyn ~ sigma^2 R_e)
+2. Bulges, discs, and intermediates populate different parts of the plane:
+	- bulges dominate the massive end
+	- discs dominate the low-mass end
+3. There are more galaxies in the central slice, fewer at high-SB and low-SB.  This is mostly due to how we define the slices, but:
+	- if we quantify the ratio of mid plane to high/low-SB things, is the fraction the same for the bulges and the discs?  There might be e.g., a higher fraction of low-SB discs
+		Bulges: 0.3042 in low, 0.4859 in mid, 0.2098 in high 
+		Intermediates: 0.3042 in low, 0.4859 in mid, 0.2098 in high 
+		Disc: 0.2944 in low, 0.4634 in mid, 0.2423 in high
+
+4. Few intermediates: most things in our classification system get assigned as either bulges or discs (this is good! it means we can distinguish pretty well).
+5. Intermediates seem to fall in between the bulges and discs.
+6. Bulges show a tight relation between sigma and R_e (not as true for intermediates and discs).

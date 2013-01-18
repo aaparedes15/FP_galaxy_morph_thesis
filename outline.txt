@@ -1,0 +1,67 @@
+Introduction ---> background info
+	*setting up your science question:
+		- bimodal galaxy population:
+			- Red Sequence/Blue Cloud (color/stellar population)
+			- Elliptical/Disc (morphology)
+		These often go together, but not always
+		2 different ?????????????:
+			(1) ???????? of SF
+			(2) morphological ?????? ??????????
+			How are these ?????? related?
+		--> Bundy et al Red Disc paper:
+			- Red disc = evolutionary phase?
+	*Previous work/ Context
+		- What is the Fundamental Plane?
+		- What do we already know about stellar pops/ ????????
+		- What do we already know about morphology?/ merging?
+	*More specific: Graves thesis paper
+		- What are we adding? Why is it interesting?
+
+Data
+	- Data set we are using: SDSS, ????????????????Get this from Genevieve
+	- Cuts:	
+		- 0.025 < z < 0.1
+			- 0.025 because we later use OII line and it is just in range of the SDSS spectrograph.
+			- 0.1 because ?????? (I think because we don't want too big a difference in cosmological age of the galaxy samples.
+		- H\alpha and OII EW cuts.---> ??????
+		- quality cuts: Vdisp, etc.
+	----> Figure 1. Color/Magnitude Diagram of final sample ---> ??????
+	----> all values are R-band, unless otherwise noted.
+
+Morphological Classification
+	- ????? Gim2D parameters (B/T, s2)
+	- ????? SDSS parameters (concentration, a/b)
+	- Cheng et al classification ---> Disc/Intermediate/Bulge
+	----> Figure 2 & 3: SDSS Thumbnails of disc and bulges (????)
+
+The Fundamental Plane
+	- what is the FP?
+	- Why is it a good parameter space? (Graves thesis)
+	---> Figure 4: edge on FP
+	---> Figure 5: B/I/D in FP space
+		B/I/D fall in slightly different parts of space.
+
+Results!/ Stellar pop. analysis
+	- Binning, stack spectra
+	- disc indices/stellar pop. analysis
+	---> Figure 6: Age Map
+		       [Fe/H] Map
+		       [Mg/Fe] Map
+		- Existing trends are there: (Graves, Spingob???)
+	-- Compare D vs. B:
+		-- SAME trends!
+		- Figure 7: Delta maps:
+			- SAME values (Age, Fe, Mg)
+				- Same star formation histories in the central bugle component of both types morphological galaxies!
+					----> Figure 8: quantify this with the histograms
+
+Discussion
+	- go back to red disc as evolutionary phase model
+	- talk to Kevin and Phil
+		-
+		-
+		-
+
+Conclusion
+	- Brief recap
+	- Bullet list of results
